@@ -1,0 +1,42 @@
+.container {
+  background-color: black;
+  background-size: cover;
+  height: 100vh;
+}
+
+.head {
+  color: white;
+  font-style: italic;
+  font-family: roboto;
+  text-align: center;
+  padding-top: 50px;
+  font-size: 50px;
+}
+.manage {
+  color: white;
+}
+.para {
+  color: white;
+}
+.switch {
+  color: white;
+  background-color: blue;
+  border-width: none;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.click {
+  color: white;
+  background-color: transparent;
+  border-radius: 5px;
+  border-color: white;
+}
+.miniContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.image {
+  height: 600px;
+}
