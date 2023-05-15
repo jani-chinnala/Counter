@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/no-named-as-default
 import {Component} from 'react'
 
 import './index.css'
@@ -42,6 +43,7 @@ class Speedometer extends Component {
         </div>
       </div>
     )
-      }
-}
- export default Speedometer 
+      }}
+         export  default  Speedometer 
+        
+
